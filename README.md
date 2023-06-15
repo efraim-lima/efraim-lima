@@ -16,9 +16,9 @@ Possuo certificados em diversas áreas de segurança, incluindo:
 
 ## Interesses e Habilidades
 
-- 👀 Tenho interesse em aprender e trabalhar com desenvolvimento web e Python (especialmente na área de estatística);
-- 🌱 Atualmente, estou aprofundando meus conhecimentos em HTML, JavaScript (ES6, Three, React, Node), CSS e Python;
-- 💞️ Estou buscando colaborar em projetos Python, onde posso compartilhar meus conhecimentos e ajudar outras pessoas;
+- 👀 Tenho interesse em aprender e trabalhar com desenvolvimento web e Python (especialmente na área de segurança);
+- 🌱 Atualmente, estou aprofundando meus conhecimentos em Inteligência de Ameaças Cibernéticas;
+- 💞️ Estou buscando colaborar em projetos CyberSec, onde posso compartilhar meus conhecimentos e ajudar outras pessoas;
 - 📫 Você pode entrar em contato comigo por e-mail: efraim.alima@gmail.com
 
 ## Conexão e Contato
