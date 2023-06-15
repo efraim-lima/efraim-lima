@@ -1,24 +1,35 @@
-#Greetings
+# Bem-vindo ao meu perfil! 👋
 
-## 👋 Hi, I’m @efraim-lima, call me Efra (or how you want)
-###I'm an brazilian web developer student, but I have more know-how in Marketing and Business Inteligence.
-###Actually I work as CAO (Chief Analytics Officer) in a Family Office, but I'm open to work as web dev (even if this work is in another coutry).
+## Sobre mim
 
-###A little bit more of my interests:
+Olá, sou o @efraim-lima, mas pode me chamar de Efra! Sou um entusiasta da tecnologia e estou em busca de oportunidades na área de Cyber Threat Intelligence. Tenho experiência em desenvolvimento e análise de malwares, spywares, worms e keyloggers, buscando constantemente me aprimorar nesses domínios.
 
-- 👀 I’m interested in learn an work with web development and Python development (statystics);
-- 🌱 I’m currently learning HTML, JavaScript(ES6, Three, React, Node), Css and Python;
-- 💞️ I’m looking to collaborate on Python projects, as the uniche one I can help someone (hehehe);
-- 📫 Find me in email: efraim.alima@gmail.com
+## Certificações
 
-###If you wanna talk with me,
-[call me here!](https://www.linkedin.com/in/efraimlima/)
+Possuo certificados em diversas áreas de segurança, incluindo:
 
+- 🛡️ Segurança de Redes pela CISCO
+- 🕵️‍♂️ Cyber Threat Intelligence
+- 🕵️‍♂️ Perícia Forense
+- 🕵️‍♂️ Análise de Malwares
+- 🕵️‍♂️ Redes
 
-###I'm working in marketing as an ads manager and Video Marketing Specialist(YouTube, TikTok, Instagram ...), if you need some help with that, I can help you.. 
-[just talk to me in WhatsApp!](https://wa.me/p/6587960484611667/5511959972318)! [or linkedin!](https://www.linkedin.com/in/efraimlima/)
+## Interesses e Habilidades
+
+- 👀 Tenho interesse em aprender e trabalhar com desenvolvimento web e Python (especialmente na área de estatística);
+- 🌱 Atualmente, estou aprofundando meus conhecimentos em HTML, JavaScript (ES6, Three, React, Node), CSS e Python;
+- 💞️ Estou buscando colaborar em projetos Python, onde posso compartilhar meus conhecimentos e ajudar outras pessoas;
+- 📫 Você pode entrar em contato comigo por e-mail: efraim.alima@gmail.com
+
+## Conexão e Contato
+
+Se você quiser conversar comigo ou saber mais sobre minhas habilidades e projetos, fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/efraimlima/). Adoro conhecer novas pessoas e compartilhar conhecimento!
+
+## Marketing e Publicidade
+
+Além da minha paixão pela tecnologia, também trabalho com marketing como gerente de anúncios e especialista em Video Marketing (YouTube, TikTok, Instagram, entre outros). Se você precisar de ajuda nessa área, fique à vontade para entrar em contato comigo pelo [WhatsApp](https://wa.me/p/6587960484611667/5511959972318) ou pelo [LinkedIn](https://www.linkedin.com/in/efraimlima/).
 
 <!---
-efraim-lima/efraim-lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+efraim-lima/efraim-lima é um repositório especial, pois o `README.md` (este arquivo) aparece no meu perfil do GitHub.
+Você pode clicar no link de visualização para dar uma olhada nas minhas alterações.
 --->
