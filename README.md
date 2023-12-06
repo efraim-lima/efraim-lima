@@ -1,8 +1,8 @@
-# Bem-vindo ao meu perfil! 👋
+# Bem-vindo(a) ao meu perfil! 👋
 
 ## Sobre mim
 
-Olá, sou o @efraim-lima, mas pode me chamar de Efra! Sou um entusiasta da tecnologia e estou em busca de oportunidades na área de Cyber Threat Intelligence. Tenho experiência em desenvolvimento e análise de malwares, spywares, worms e keyloggers, buscando constantemente me aprimorar nesses domínios.
+Olá, sou o @efraim-lima, mas pode me chamar de Efra! Sou um entusiasta de tecnologia e estou em busca de oportunidades na área de Segurança da Informação e Desenvolvimento. Tenho experiência em desenvolvimento e análise de malwares, spywares, worms e keyloggers, buscando constantemente me aprimorar nesses domínios.
 
 ## Certificações
 
